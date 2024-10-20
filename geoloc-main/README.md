@@ -6,6 +6,7 @@ This project is a simple web application built with Flask that allows users to r
 
 ## Features
 
+
 - Fetch geolocation data for a provided IP address.
 - Automatically retrieves the geolocation of the server's IP if none is provided.
 - User-friendly interface for easy IP input and results display.
