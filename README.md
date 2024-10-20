@@ -74,7 +74,7 @@ To run the application using Docker, following these steps:
 
 2. *Run the Docker container:*
 ```
-   docker run -p 5000:5000 --env-file .env geolocapp
+   docker run -p 5000:5000 --env-file .env geoloc-app
 ```
 OR use 
 ```
